@@ -1,0 +1,37 @@
+{
+  "ProjectName": "skel_nav_mobile",
+  "ProjectGuid": "d0d8b2d2-fa0f-4820-bc75-06846c1767f0",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.skelnavmobile",
+  "DisplayName": "skel_nav_mobile",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a3b0ceb5-7080-4466-9003-2206e38505dd}",
+  "WP8ProductID": "{5e7f78de-2a3d-44d8-92bd-8b1e678208c1}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
